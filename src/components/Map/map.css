@@ -1,0 +1,15 @@
+.map-wrapper {
+    width: 680px;
+    height: 700px;
+    overflow: hidden;
+  }
+  
+  .map {
+    width: 700px;
+    height: 730px;
+    border-radius: 50%;
+    position: relative;
+    left: 150px;
+    bottom:100px;
+    border: none;
+  }
